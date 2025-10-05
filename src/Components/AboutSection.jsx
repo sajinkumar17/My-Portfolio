@@ -21,7 +21,7 @@ const AboutSection = () => {
               <a href="#contact" className='cosmic-button'>
                 Let's Connect
               </a>
-              <a href="src\assets\SK Resume.pdf" className='px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary hover:text-background transition-colors duration-300 text-center'>
+              <a href="public\SK Resume.pdf" className='px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary hover:text-background transition-colors duration-300 text-center'>
                 Download Resume
               </a>
             </div>
